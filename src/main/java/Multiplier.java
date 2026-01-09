@@ -1,8 +1,8 @@
 public class Multiplier {
     private int a;
     private int b;
-    int c;
-    int d;
+    private int c;
+    private int d;
 
     private int res;
 
